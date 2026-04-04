@@ -8,7 +8,6 @@ Example of Version Control in Use:
 In a software development project, the version control system may be Git. In such a case, each developer may work on a separate version of the code, called a "branch." Once a feature has been completed, it may be merged into the main version of the code. This way, the stability of the project is maintained while the development of the new features continues.
 
 Command Example:
-Command Example:
 A common command used with the Git system is:
 git commit -m "Add login feature"
 
