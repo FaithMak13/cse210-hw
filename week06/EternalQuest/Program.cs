@@ -1,9 +1,4 @@
-using System;
-
-class Program
-{
-    static void Main(string[] args)
-    {
-        Console.WriteLine("Hello World! This is the EternalQuest Project.");
-    }
-}
+// EXCEEDING REQUIREMENTS:
+// - Added leveling system based on score
+// - Added badge rewards at milestones
+// - Added streak tracking for repeated goals
